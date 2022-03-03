@@ -1,1 +1,1 @@
-shell basics
+print current working directory
