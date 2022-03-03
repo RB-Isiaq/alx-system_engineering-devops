@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "/c/Users/hp/bin:/mingw64/bin:/usr/local/bin:/usr/bin:/bin:/mingw64/bin:/usr/bin:/c/Users/hp/bin:/c/Windows/system32:/c/Windows:/c/Windows/System32/Wbem:/c/Windows/System32/WindowsPowerShell/v1.0:/c/HashiCorp/Vagrant/bin:/cmd:/mingw64/bin:/usr/bin:/c/Users/hp/AppData/Local/Microsoft/WindowsApps:/usr/bin/vendor_perl:/usr/bin/core_perl"
+echo "/tmp/correction/1587128092113782155639581124167631448606_5/205/9161/0x00-shell_basics"
